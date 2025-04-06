@@ -12,10 +12,10 @@
 - 🔭 Currently working on: **Flood Prediction Models using ML**
 - 🌱 Learning: **AI/ML | Deep Learning | NLP | LSTM | Web Dev**
 - 💬 Ask me about: **Neural Networks, LSTM, Feature Engineering, Gradio, Kalman Filters**
-- 📫 Reach me at: **teppalaniraj@gmail.com**
+- 📫 Reach me at: **tniraj2604@gmail.com**
 - 🎯 Goals 2025: **Build impactful ML-based projects and contribute to open source**
 - 🏆 Ideathon Finalist: **Next Wave Urban Solutions – Smart Traffic Management System**
-- 🧠 Former Intern: **Infosys Springboard AI Intern (Language Translation System)**
+- 🧠 Former Intern: **Infosys Springboard AI Intern (LSTM Models)**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Niraj267&show_icons=true&theme=tokyonight" alt="Niraj's GitHub stats">
