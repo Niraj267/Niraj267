@@ -52,7 +52,6 @@
 - 🧠 Amazon ML Challenge – Participant  
 - 🧩 Tata Crucible Campus Quiz – Participant  
 - 🥈 Runner-up – Next Wave Urban Solutions Ideathon  
-- ⚽ Sub-district Football Player  
 
 ## 📫 Connect with Me
 
