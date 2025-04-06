@@ -33,15 +33,12 @@
 
 ## 🚀 Featured Projects
 
-- 🌊 **Flood Prediction System**: A machine learning-based system that predicts flood likelihood based on rainfall, river data, and historical patterns for regions in Assam and Uttar Pradesh using Gradio, pandas, and scikit-learn.
-  
-- 🗣️ **Language Translation System**: A neural network-based model and web application that translates Indian languages with a focus on accessibility and multilingual support. Developed during internship at Infosys Springboard.
-
 - 🚦 **Smart Traffic System**: Real-time traffic management using YOLO-based vehicle detection and Kalman Filter to dynamically control signal timing across lanes, factoring in vehicle density and flow.
+
+- 🌊 **Flood Prediction System**: A machine learning-based system that predicts flood likelihood based on rainfall, river data, and historical patterns for regions in Assam and Uttar Pradesh using Gradio, pandas, and scikit-learn.
 
 - 📈 **Stock Price Prediction**: A deep learning model using LSTM networks to predict stock prices from historical trends, including future trend visualization and performance metrics.
 
-- 🎧 **Speech Emotion Recognition**: An ML project to classify emotional tone from speech using audio features such as MFCCs, integrated with classification models to identify emotions like happy, sad, angry, etc.
 
 ## 📈 GitHub Activity
 
