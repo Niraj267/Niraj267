@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Teppala Niraj</h1>
 <h3 align="center">🚀 ML Enthusiast | 💻 Software Developer | 🎓 CSE Student at Chandigarh University</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding animation">
+</div>
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj267&layout=compact&theme=tokyonight" width="300" alt="Top Languages">
 
 - 🔭 Currently working on: **Flood Prediction Models using ML**
 - 🌱 Learning: **AI/ML | Deep Learning | NLP | LSTM | Web Dev**
@@ -13,43 +17,46 @@
 - 🏆 Ideathon Finalist: **Next Wave Urban Solutions – Smart Traffic Management System**
 - 🧠 Former Intern: **Infosys Springboard AI Intern (Language Translation System)**
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niraj267&show_icons=true&theme=tokyonight" alt="Niraj's GitHub stats">
+</div>
 
-### 🧩 Skills & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+## 🧩 Skills & Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,html,css,git,aws,vscode,mongodb" alt="Skills" /><br>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gradio-FFB703?style=for-the-badge&logo=gradio&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+</div>
 
----
+## 🚀 Featured Projects
 
-### 🚀 Projects
+<div align="center">
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niraj267&repo=Flood-Prediction-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Flood Prediction System" />
+  </a>
+  <a href="#">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Niraj267&repo=Language-Translation-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Language Translation System" />
+  </a>
+</div>
 
-- 🌊 **Flood Prediction System** – Predicts flood risk using ML and real-time rainfall data.  
-- 🌐 **Language Translation System** – Translates Indian languages using Neural Networks.  
-- 🚦 **Smart Traffic System** – Computer Vision + Kalman Filter to manage signal timings dynamically.  
-- 📊 **Stock Price Prediction** – Uses LSTM models to forecast stock prices based on historical trends.  
-- 🎭 **Speech Emotion Recognition** – Classifies emotions in speech using audio feature extraction.  
+<details>
+  <summary>📂 More Projects</summary>
+  
+  - 🚦 **Smart Traffic System** – Computer Vision + Kalman Filter to manage signal timings dynamically.  
+  - 📊 **Stock Price Prediction** – Uses LSTM models to forecast stock prices based on historical trends.  
+  - 🎭 **Speech Emotion Recognition** – Classifies emotions in speech using audio feature extraction.
+</details>
 
----
+## 📈 GitHub Activity
 
-### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj267&theme=tokyonight" alt="GitHub Streak Stats">
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj267&show_icons=true&theme=radical" alt="Niraj's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj267&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🏆 Achievements
+## 🏆 Achievements
 
 - 👨‍💻 Infosys Springboard AI Intern – Language Translation System  
 - 🧠 Amazon ML Challenge – Participant  
@@ -57,16 +64,22 @@
 - 🥈 Runner-up – Next Wave Urban Solutions Ideathon  
 - ⚽ Sub-district Football Player  
 
----
+## 📫 Connect with Me
 
-### 📫 Connect with Me
+<div align="center">
+  <a href="mailto:teppalaniraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/teppalaniraj">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Niraj267">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
 
-<p align="left">
-  <a href="mailto:teppalaniraj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/teppalaniraj"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Niraj267"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+</div>
 
----
-
-*✨ Passionate learner, team player, and emerging tech explorer – always building something new!*
+<!-- *✨ Passionate learner, team player, and emerging tech explorer – always building something new!* -->
