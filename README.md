@@ -33,22 +33,15 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Niraj267/Flood-Prediction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj267&repo=Flood-Prediction-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Flood Prediction System" />
-  </a>
-  <a href="https://github.com/Niraj267/Language-Translation-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Niraj267&repo=Language-Translation-System&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Language Translation System" />
-  </a>
-</div>
-
-<details>
-  <summary>📂 More Projects</summary>
+- 🌊 **Flood Prediction System**: A machine learning-based system that predicts flood likelihood based on rainfall, river data, and historical patterns for regions in Assam and Uttar Pradesh using Gradio, pandas, and scikit-learn.
   
-  - 🚦 **Smart Traffic System** – Computer Vision + Kalman Filter to manage signal timings dynamically.  
-  - 📊 **Stock Price Prediction** – Uses LSTM models to forecast stock prices based on historical trends.  
-  - 🎭 **Speech Emotion Recognition** – Classifies emotions in speech using audio feature extraction.
-</details>
+- 🗣️ **Language Translation System**: A neural network-based model and web application that translates Indian languages with a focus on accessibility and multilingual support. Developed during internship at Infosys Springboard.
+
+- 🚦 **Smart Traffic System**: Real-time traffic management using YOLO-based vehicle detection and Kalman Filter to dynamically control signal timing across lanes, factoring in vehicle density and flow.
+
+- 📈 **Stock Price Prediction**: A deep learning model using LSTM networks to predict stock prices from historical trends, including future trend visualization and performance metrics.
+
+- 🎧 **Speech Emotion Recognition**: An ML project to classify emotional tone from speech using audio features such as MFCCs, integrated with classification models to identify emotions like happy, sad, angry, etc.
 
 ## 📈 GitHub Activity
 
