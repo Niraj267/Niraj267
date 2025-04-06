@@ -9,9 +9,8 @@
 
 ### 👨‍💻 About Me
 
-🔹 I'm an aspiring **AI/ML Engineer** currently pursuing B.E. in Computer Science (AI/ML) at **Chandigarh University**, in collaboration with IBM.  
-🔹 I build **real-world intelligent systems** to tackle issues in healthcare, smart cities, and the environment.  
-🔹 Currently exploring **deep learning, predictive modeling**, and **urban tech innovations**.
+🔹 I'm an aspiring **AI/ML Engineer**. 
+🔹 Currently exploring **deep learning, predictive modeling**, and **Ai Tools**.
 
 ---
 
