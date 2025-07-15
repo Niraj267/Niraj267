@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj267&layout=compact&theme=tokyonight" width="300" alt="Top Languages">
 
-- 🔭 Currently working on: **Flood Prediction Models using ML**
+- 🔭 Currently working on: **Smart Traffic Management System**
 - 🌱 Learning: **AI/ML | Deep Learning | NLP | LSTM | Web Dev**
 - 💬 Ask me about: **Neural Networks, LSTM, Feature Engineering, Gradio, Kalman Filters**
 - 📫 Reach me at: **tniraj2604@gmail.com**
