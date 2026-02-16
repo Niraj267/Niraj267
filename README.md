@@ -1,11 +1,14 @@
-# <h1 align="center">Hi 👋, I'm Teppala Niraj</h1>
-<h3 align="center">🤖 Computer Science Engineer | AI-ML Specialist | Predictive Modeling Expert</h3>
+# Teppala Niraj
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Applied_Machine_Learning-orange?style=for-the-badge&logo=python" alt="Focus">
-  <img src="https://img.shields.io/badge/Certification-Oracle_Gen_AI_Professional-blue?style=for-the-badge&logo=oracle" alt="Oracle Cert">
-  <img src="https://img.shields.io/badge/University-Chandigarh_University-red?style=for-the-badge" alt="University">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Teppala%20Niraj&fontSize=80&fontColor=ffffff" width="100%"/>
+
+<p align="left"> 
+  <b>Computer Science Engineer | AI & ML Specialist</b><br>
+  Highly motivated undergrad with a strong foundation in Python and applied Machine Learning. 
+  Aspiring to contribute to real-world software challenges through predictive modeling and data-driven projects.
 </p>
+
+### You can reach me at: **<tniraj2604@gmail.com>**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake-dark.svg">
@@ -13,69 +16,68 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake.svg">
 </picture>
 
----
+<a href="https://github.com/Niraj267">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</a>
+<br>
+<br>
 
-## 🧑‍💻 About Me
-I am a highly motivated **Computer Science Engineering** student specializing in **AI & ML** at **Chandigarh University** (2022–2026). My expertise lies in building end-to-end machine learning solutions, with a particular focus on deep learning architectures like **LSTMs**, **CNNs**, and real-time **Object Detection**.
+<details open>
+<summary><b>Skills and Tools</b></summary>
+<br>
 
-- 🚀 **Currently Building**: A **Smart Traffic Management System** using YOLO and Kalman Filters to solve urban congestion.
-- 💡 **Professional Impact**: Former **ML Engineering Intern** at **Infosys Springboard**, where I optimized LSTM models for time series forecasting.
-- 🏆 **Latest Achievement**: 1st Runner Up in **Tech Invent 2024** (Next-Wave Urban Solutions).
-- 📫 **Reach Me**: [tniraj2604@gmail.com](mailto:tniraj2604@gmail.com)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![DSA](https://img.shields.io/badge/-DSA-000000?style=for-the-badge&logo=algorithm&logoColor=white)&nbsp;
 
----
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?style=for-the-badge&logo=pandas&logoColor=black)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 
-## 🛠️ Tech Stack & Skills
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python (Advanced), SQL, DSA |
-| **ML/DL Architectures** | LSTM, CNN, YOLO, Kalman Filter, XGBoost |
-| **Libraries** | NumPy, Pandas, Matplotlib, Scikit-Learn |
-| **Data & Viz** | Power BI, Matplotlib |
-| **DevOps & Tools** | GitHub, VS Code, Jupyter Lab, Gradio, SDLC |
+</details>
 
----
+<details>
+<summary><b>Key Projects</b></summary>
+<br>
 
-## 🚀 Featured Projects
+* **Smart Traffic Management System**
+    * *Tech:* YOLO, Kalman Filter, Computer Vision, CNN
+    * Reduced traffic signal wait time by 36% using real-time YOLO-Kalman optimization.
 
-### 🚦 Smart Traffic Management System
-* **Tech**: YOLO, Kalman Filter, Computer Vision, CNN.
-* **Impact**: Dynamically optimized traffic flow, reducing signal wait times by **36%** with **sub-200ms latency**.
+* **Stock Price Prediction**
+    * *Tech:* Python, XGBoost, NumPy
+    * Developed a back-testing engine with evaluation metrics like Sharpe Ratio and Max Drawdown.
 
-### 🌊 Flood Detection Model
-* **Tech**: LSTM-CNN hybrid architecture using historical weather data.
-* **Impact**: Achieved **77.3% prediction accuracy** across 3 districts and a **79.2% F1-score**.
+* **Flood Detection Model**
+    * *Tech:* LSTM, Gradio, Hybrid CNN
+    * Achieved 79.2% F1-score predicting flooding from historical weather data.
 
-### 📈 Stock Price Prediction & Backtesting
-* **Tech**: XGBoost and LSTM integration.
-* **Impact**: Built a custom backtesting engine to evaluate model performance via **Sharpe Ratio**, **Max Drawdown**, and **Win Rate**.
+</details>
 
----
+<br>
+<br>
 
-## 🏆 Certifications & Achievements
-- **Oracle**: 2024 Generative AI Certified Professional.
-- **ISRO**: AI/ML for Geo Data Analysis.
-- **Coursera**: Machine Learning for All.
-- **Next-Wave Urban Solutions**: 1st Runner Up (Tech Invent 2024).
-- **Athlete**: Sub-District Level Football Player.
+<details>
+<summary><b>Certifications</b></summary>
+<br>
+  
+* Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+* AI/ML for Geo Data Analysis (ISRO)
+* Machine Learning for All (Coursera)
 
----
+</details>
 
-<p align="center">
-  <a href="https://linkedin.com/in/teppala-niraj-4780a1303">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Niraj267">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:tniraj2604@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+##
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</div>
+<br>
 
-
+<br>
+<br>
