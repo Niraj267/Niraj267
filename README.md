@@ -7,6 +7,12 @@
   <img src="https://img.shields.io/badge/University-Chandigarh_University-red?style=for-the-badge" alt="University">
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -72,8 +78,4 @@ I am a highly motivated **Computer Science Engineering** student specializing in
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Niraj267/Niraj267/output/github-contribution-grid-snake.svg">
-</picture>
+
