@@ -1,74 +1,73 @@
-<h1 align="center">Hi 👋, I'm Teppala Niraj</h1>
-<h3 align="center">🚀 ML Enthusiast | 💻 Software Developer | 🎓 CSE Student at Chandigarh University</h3>
+# <h1 align="center">Hi 👋, I'm Teppala Niraj</h1>
+<h3 align="center">🤖 Computer Science Engineer | AI-ML Specialist | Predictive Modeling Expert</h3>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450" alt="coding animation">
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Applied_Machine_Learning-orange?style=for-the-badge&logo=python" alt="Focus">
+  <img src="https://img.shields.io/badge/Certification-Oracle_Gen_AI_Professional-blue?style=for-the-badge&logo=oracle" alt="Oracle Cert">
+  <img src="https://img.shields.io/badge/University-Chandigarh_University-red?style=for-the-badge" alt="University">
+</p>
+
+---
 
 ## 🧑‍💻 About Me
+I am a highly motivated **Computer Science Engineering** student specializing in **AI & ML** at **Chandigarh University** (2022–2026). My expertise lies in building end-to-end machine learning solutions, with a particular focus on deep learning architectures like **LSTMs**, **CNNs**, and real-time **Object Detection**.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niraj267&layout=compact&theme=tokyonight" width="300" alt="Top Languages">
+- 🚀 **Currently Building**: A **Smart Traffic Management System** using YOLO and Kalman Filters to solve urban congestion.
+- 💡 **Professional Impact**: Former **ML Engineering Intern** at **Infosys Springboard**, where I optimized LSTM models for time series forecasting.
+- 🏆 **Latest Achievement**: 1st Runner Up in **Tech Invent 2024** (Next-Wave Urban Solutions).
+- 📫 **Reach Me**: [tniraj2604@gmail.com](mailto:tniraj2604@gmail.com)
 
-- 🔭 Currently working on: **Smart Traffic Management System**
-- 🌱 Learning: **AI/ML | Deep Learning | NLP | LSTM | Web Dev**
-- 💬 Ask me about: **Neural Networks, LSTM, Feature Engineering, Gradio, Kalman Filters**
-- 📫 Reach me at: **tniraj2604@gmail.com**
-- 🎯 Goals 2025: **Build impactful ML-based projects and contribute to open source**
-- 🏆 Ideathon Finalist: **Next Wave Urban Solutions – Smart Traffic Management System**
-- 🧠 Former Intern: **Infosys Springboard AI Intern (LSTM Models)**
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niraj267&show_icons=true&theme=tokyonight" alt="Niraj's GitHub stats">
-</div>
+## 🛠️ Tech Stack & Skills
 
-## 🧩 Skills & Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (Advanced), SQL, DSA |
+| **ML/DL Architectures** | LSTM, CNN, YOLO, Kalman Filter, XGBoost |
+| **Libraries** | NumPy, Pandas, Matplotlib, Scikit-Learn |
+| **Data & Viz** | Power BI, Matplotlib |
+| **DevOps & Tools** | GitHub, VS Code, Jupyter Lab, Gradio, SDLC |
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,java,html,css,git,aws,vscode,mongodb" alt="Skills" /><br>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gradio-FFB703?style=for-the-badge&logo=gradio&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</div>
+---
 
 ## 🚀 Featured Projects
 
-- 🚦 **Smart Traffic System**: Real-time traffic management using YOLO-based vehicle detection and Kalman Filter to dynamically control signal timing across lanes, factoring in vehicle density and flow.
+### 🚦 Smart Traffic Management System
+* **Tech**: YOLO, Kalman Filter, Computer Vision, CNN.
+* **Impact**: Dynamically optimized traffic flow, reducing signal wait times by **36%** with **sub-200ms latency**.
 
-- 🌊 **Flood Prediction System**: A machine learning-based system that predicts flood likelihood based on rainfall, river data, and historical patterns for regions in Assam and Uttar Pradesh using Gradio, pandas, and scikit-learn.
+### 🌊 Flood Detection Model
+* **Tech**: LSTM-CNN hybrid architecture using historical weather data.
+* **Impact**: Achieved **77.3% prediction accuracy** across 3 districts and a **79.2% F1-score**.
 
-- 📈 **Stock Price Prediction**: A deep learning model using LSTM networks to predict stock prices from historical trends, including future trend visualization and performance metrics.
+### 📈 Stock Price Prediction & Backtesting
+* **Tech**: XGBoost and LSTM integration.
+* **Impact**: Built a custom backtesting engine to evaluate model performance via **Sharpe Ratio**, **Max Drawdown**, and **Win Rate**.
 
+---
 
-## 📈 GitHub Activity
+## 🏆 Certifications & Achievements
+- **Oracle**: 2024 Generative AI Certified Professional.
+- **ISRO**: AI/ML for Geo Data Analysis.
+- **Coursera**: Machine Learning for All.
+- **Next-Wave Urban Solutions**: 1st Runner Up (Tech Invent 2024).
+- **Athlete**: Sub-District Level Football Player.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niraj267&theme=tokyonight" alt="GitHub Streak Stats">
-</div>
+---
 
-## 🏆 Achievements
-
-- 👨‍💻 Infosys Springboard AI Intern – Language Translation System  
-- 🧠 Amazon ML Challenge – Participant  
-- 🧩 Tata Crucible Campus Quiz – Participant  
-- 🥈 Runner-up – Next Wave Urban Solutions Ideathon  
-
-## 📫 Connect with Me
-
-<div align="center">
-  <a href="mailto:teppalaniraj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/teppalaniraj">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+  <a href="https://linkedin.com/in/teppala-niraj-4780a1303">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Niraj267">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+  <a href="mailto:tniraj2604@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
-
-<!-- ✨ Passionate learner, team player, and emerging tech explorer – always building something new! -->
